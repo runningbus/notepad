@@ -1,0 +1,10 @@
+D:\30_Prototype\03_WinForm\Notepad\bin\Debug\Notepad.exe.config
+D:\30_Prototype\03_WinForm\Notepad\bin\Debug\Notepad.exe
+D:\30_Prototype\03_WinForm\Notepad\bin\Debug\Notepad.pdb
+D:\30_Prototype\03_WinForm\Notepad\obj\Debug\Notepad.frmAbout.resources
+D:\30_Prototype\03_WinForm\Notepad\obj\Debug\Notepad.frmMain.resources
+D:\30_Prototype\03_WinForm\Notepad\obj\Debug\Notepad.Properties.Resources.resources
+D:\30_Prototype\03_WinForm\Notepad\obj\Debug\Notepad.csproj.GenerateResource.cache
+D:\30_Prototype\03_WinForm\Notepad\obj\Debug\Notepad.exe
+D:\30_Prototype\03_WinForm\Notepad\obj\Debug\Notepad.pdb
+D:\30_Prototype\03_WinForm\Notepad\obj\Debug\Notepad.csprojAssemblyReference.cache
